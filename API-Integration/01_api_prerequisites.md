@@ -2,6 +2,8 @@
 
 An API, or Application Programming Interface, is a set of rules and protocols that allows different software applications to communicate with each other. APIs define the methods and data formats that developers can use to interact with a service or platform. They provide a way for developers to access specific features or data without needing to understand the underlying code or infrastructure.
 
+![API](./img/img1.png)
+
 # 6 Step Guide for API handling 
 
 ## Step 1: http methods
